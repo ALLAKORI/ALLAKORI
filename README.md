@@ -35,5 +35,4 @@ I am a 2nd-year Engineering Student at **ENSA Béni Mellal (Morocco)**. Original
 > "If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology."
 > — **Bruce Schneier**
 
-> "In the age of Artificial Intelligence, true security isn't just about building walls; it's about teaching the mind of the machine to defend its own integrity."
 > — **Richard Allado**
