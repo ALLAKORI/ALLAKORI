@@ -1,4 +1,4 @@
-# Hi there! I'm Richard Allado 👋
+# Hi there! I'm Kossi Richard ALLADO 👋
 
 ### 👨‍💻 Future Engineer | Cybersecurity & Artificial Intelligence
 I am a 2nd-year Engineering Student at **ENSA Béni Mellal (Morocco)**. Originally from **Togo 🇹🇬**, I am deeply invested in bridging the gap between robust security protocols and advanced AI systems.
