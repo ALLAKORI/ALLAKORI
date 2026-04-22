@@ -8,7 +8,6 @@ I am a 2nd-year Engineering Student at **ENSA Béni Mellal (Morocco)**. Original
 ### 🛡️ Cybersecurity Expertise
 - **Network Security & Pentesting:** Proficient with **Nmap**, **Wireshark**, and **Burp Suite**.
 - **Specialized Interest:** I am dedicated to the emerging field of **AI Security**—securing AI models against adversarial attacks and ensuring ethical, resilient AI deployments.
-- **Hands-on Practice:** [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RIDOKY.png)](https://tryhackme.com/p/RIDOKY)
 
 ### 🤖 AI, Data Science & Web
 - **Frameworks:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
