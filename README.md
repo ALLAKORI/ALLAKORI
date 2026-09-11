@@ -1,62 +1,78 @@
 # Kossi Richard Allado
 
-**Cybersecurity & Applied AI engineering student** at ENSA Beni Mellal, Morocco.
+**Cybersecurity & AI Engineering Student** at ENSA Beni Mellal, Morocco.
 
-I build practical projects around Linux security, digital forensics, CTF methodology, machine learning, and local LLM experiments. My goal is to connect security investigation with useful AI workflows: clearer analysis, better automation, and reproducible technical work.
+I build practical cybersecurity projects around SOC/DFIR, Offensive Security, AI Security, GRC, Linux security, secure backend engineering, and technical documentation. My goal is to connect security investigation with useful AI workflows: clearer analysis, better automation, and reproducible technical work.
 
-I am open to **PFA internship opportunities from June 2026** in cybersecurity, blue team, DFIR, security analytics, applied machine learning, or AI-assisted security tooling.
+I am looking for a **PFE internship (4-6 months) starting February 2027** in cybersecurity, with interest in SOC/DFIR, GRC/conformity (ISO 27001, EBIOS RM, NIS2), AI Security, security consulting, and AI-assisted security products.
 
 ## What I Can Contribute
 
 - Investigate logs, network traces, challenge artifacts, and suspicious behavior with structured notes.
-- Build small Python tools, notebooks, or interfaces to clean data, classify events, and explain results.
+- Build Python tools, backend services, analysis workflows, and interfaces that turn raw signals into readable security output.
 - Document work as reproducible case studies: objective, method, tools, findings, limitations, and next steps.
-- Bring a hybrid profile: blue-team fundamentals, CTF problem solving, applied machine learning, and local LLM experimentation.
+- Bring a hybrid profile: cybersecurity fundamentals, CTF problem solving, secure software engineering, applied machine learning, and AI Security.
 - Present selected work as readable portfolio case studies, not only GitHub redirects.
 
 ## Internship Target
 
-- **Best fit:** SOC / blue team, DFIR, security analytics, applied machine learning, AI-assisted investigation
-- **Availability:** June 2026
-- **Location:** Morocco / remote / hybrid depending on the opportunity
-- **Current status:** 2nd-year Cybersecurity & AI engineering student at ENSA Beni Mellal
+- **Best fit:** SOC/DFIR, GRC/conformity, Offensive Security, AI Security, security consulting
+- **Target:** PFE 2027 (4-6 months, starting February 2027)
+- **Location:** Morocco (Casablanca preferred) / remote / hybrid
+- **Current status:** Final-year Cybersecurity & AI engineering student at ENSA Beni Mellal
 
 ## Featured Work
 
-### Cybersecurity & CTF Writeups
+### Cybersecurity Projects
 
-- [Academia Cyber](https://github.com/ALLAKORI/Academia_Cyber) - challenge writeups and lab progress notes for review, training, and interview discussion.
-- [Enset Challenge 2026](https://github.com/ALLAKORI/Enset_Challenge_2026) - Moroccan CTF writeups, including pwn and misc challenge notes.
-- [CiteFlag Qualifiers 2026](https://github.com/ALLAKORI/CITEFLAG_QUALS_2026) - Moroccan qualifier writeup notes, including web/parser logic analysis.
+- [CyberVeille PME (CMRPI)](https://github.com/ALLAKORI) - PFA project completed with CMRPI at Espace Maroc Cyberconfiance: suspicious URL analysis, threat-intelligence lookup with ML-based phishing-risk scoring, automated alerting, and SME-oriented response sheets. Demonstrates AI applied to cybersecurity for small businesses.
+- [Linux Server Compromise & Forensic Investigation Lab](https://github.com/ALLAKORI/Linux-Server-Compromise-Forensic-Investigation-Lab) - controlled Linux compromise, evidence collection, timeline, IOCs and remediation.
+- [Cybersecurity and IAM Labs](https://github.com/ALLAKORI/cybersecurity-iam-labs) - web security, IAM, PKI, MFA and RBAC exercises.
+- [Linux Security Labs](https://github.com/ALLAKORI/linux-security-labs) - hardening, audit, DFIR and incident investigation labs.
 
-### Applied AI & Machine Learning
+### AI, RAG & Machine Learning
 
+- Chatbot USMS - multilingual RAG academic assistant using FastAPI, Next.js, PostgreSQL, Redis, Qdrant, Docker Compose, JWT/RBAC, audit logs and privacy workflows.
 - [High-Pressure Pump Fault Prediction](https://github.com/ALLAKORI/Defaut-Pompe-Prediction) - predictive maintenance project using Python, Pandas, Scikit-learn, and a Tkinter desktop interface.
-- [Local LLM & Chatbot Experiments](https://github.com/ALLAKORI/MY-FIRST-AI-CHATBOT) - local conversational AI experiments with Chainlit, LangChain, CTransformers, prompt formatting, streaming, and memory.
 
 ### Portfolio
 
 - [Portfolio Website](https://allakori.github.io/) - GitHub Pages portfolio in a technical blog format with writeup previews, project case studies, search, and tags.
 
+### Writeups & CTF Evidence
+
+- [Academia Cyber](https://github.com/ALLAKORI/Academia_Cyber) - challenge writeups and lab progress notes for review, training, and interview discussion.
+- [Enset Challenge 2026](https://github.com/ALLAKORI/Enset_Challenge_2026) - Moroccan CTF writeups, including pwn and misc challenge notes.
+- [CiteFlag Qualifiers 2026](https://github.com/ALLAKORI/CITEFLAG_QUALS_2026) - Moroccan qualifier writeup notes, including web/parser logic analysis.
+
 ## Current Focus
 
-- Linux security, hardening, and log-based investigation
-- Digital forensics, DFIR notes, and incident response methodology
-- CTF practice across web, pwn, reverse engineering, mobile, and forensics
-- Applied machine learning for classification and predictive maintenance
-- Local LLM chatbots, prompt engineering, and conversational memory
+- PFE 2027 preparation: targeting cybersecurity consulting, SOC/DFIR, and AI Security roles
+- GRC fundamentals: ISO 27001, EBIOS RM, NIS2, conformity frameworks (learning via Google Cybersecurity Certificate)
+- SOC/DFIR investigation, log analysis (Splunk), timelines and reporting
+- Offensive Security labs with remediation and evidence collection
+- Secure RAG/backend engineering and privacy-aware AI workflows
+- Technical documentation for recruiters and technical reviewers (LaTeX/Markdown)
 
 ## Technical Stack
 
-- **Cybersecurity:** Linux, Nmap, Wireshark, Burp Suite, Kali Linux, CTF methodology, log analysis, DFIR notes
-- **AI & Data:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook, Random Forest
-- **Generative AI:** Chainlit, LangChain, CTransformers, local GGUF models, prompt engineering, conversation memory
-- **Development:** Git, GitHub, VS Code, SQL, C, Tkinter, basic FastAPI
+- **Cybersecurity:** SOC/DFIR investigation, log analysis, threat intelligence, Linux security, IAM, web security, Offensive Security labs, remediation
+- **Security tools:** Nmap, Wireshark, Burp Suite, Splunk, Kali Linux, auditd, UFW, Fail2ban
+- **GRC & Conformity:** ISO 27001 (foundations), EBIOS RM (learning), NIS2 awareness, risk assessment, security procedures documentation
+- **AI Security & AI engineering:** RAG, LLM application risks, prompt-injection awareness, semantic retrieval, Scikit-learn, model output explanation
+- **Development:** Python, FastAPI, SQL/PostgreSQL, Docker, Git/GitHub, testing, technical documentation
+- **Languages:** French (fluent), English (professional)
+
+### Certifications
+
+- (ISC)2 Certified in Cybersecurity (CC)
+- Google Cybersecurity Professional Certificate
+- Google AI Security Foundations
 
 ## Contact
 
 - Portfolio: https://allakori.github.io/
 - LinkedIn: https://www.linkedin.com/in/kossi-richard-allado-50177b2a5
 - GitHub: https://github.com/ALLAKORI
-- TryHackMe: https://tryhackme.com/p/RIDOKY
+- TryHackMe: https://tryhackme.com/p/allakori
 - Email: alladokossirichard2025@gmail.com
