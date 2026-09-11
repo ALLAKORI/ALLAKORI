@@ -41,6 +41,7 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 
 ### Writeups & CTF Evidence
 
+- [HTB Season 11 Writeups](https://github.com/ALLAKORI/htb-season-11-writeups) - Hack The Box Season 11 machine writeups with detailed exploitation steps, methodology, and remediation notes (public after season end).
 - [Academia Cyber](https://github.com/ALLAKORI/Academia_Cyber) - challenge writeups and lab progress notes for review, training, and interview discussion.
 - [Enset Challenge 2026](https://github.com/ALLAKORI/Enset_Challenge_2026) - Moroccan CTF writeups, including pwn and misc challenge notes.
 - [CiteFlag Qualifiers 2026](https://github.com/ALLAKORI/CITEFLAG_QUALS_2026) - Moroccan qualifier writeup notes, including web/parser logic analysis.
