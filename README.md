@@ -2,9 +2,9 @@
 
 **Cybersecurity & AI Engineering Student** at ENSA Beni Mellal, Morocco.
 
-I build practical cybersecurity projects around SOC/DFIR, Offensive Security, AI Security, GRC, Linux security, secure backend engineering, and technical documentation. My goal is to connect security investigation with useful AI workflows: clearer analysis, better automation, and reproducible technical work.
+I build practical cybersecurity projects around SOC/DFIR, Offensive Security, AI Security, Linux security, secure backend engineering, and technical documentation. My goal is to connect security investigation with useful AI workflows: clearer analysis, better automation, and reproducible technical work.
 
-I am looking for a **PFE internship (4-6 months) starting February 2027** in cybersecurity, with interest in SOC/DFIR, GRC/conformity (ISO 27001, EBIOS RM, NIS2), AI Security, security consulting, and AI-assisted security products.
+I am looking for a **PFE internship (4-6 months) starting February 2027** in cybersecurity, with interest in SOC/DFIR, AI Security, security consulting, and AI-assisted security products.
 
 ## What I Can Contribute
 
@@ -16,7 +16,7 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 
 ## Internship Target
 
-- **Best fit:** SOC/DFIR, GRC/conformity, Offensive Security, AI Security, security consulting
+- **Best fit:** SOC/DFIR, Offensive Security, AI Security, security consulting
 - **Target:** PFE 2027 (4-6 months, starting February 2027)
 - **Location:** Morocco (Casablanca preferred) / remote / hybrid
 - **Current status:** Final-year Cybersecurity & AI engineering student at ENSA Beni Mellal
@@ -41,7 +41,7 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 
 ### Writeups & CTF Evidence
 
-- [HTB Season 11 Writeups](https://github.com/ALLAKORI/htb-season-11-writeups) - Hack The Box Season 11 machine writeups with detailed exploitation steps, methodology, and remediation notes (public after season end).
+- [HTB Season 11 Writeups](https://github.com/ALLAKORI/htb-season-11-writeups) - Hack The Box Season 11 machine writeups with detailed exploitation steps, methodology, and remediation notes.
 - [Academia Cyber](https://github.com/ALLAKORI/Academia_Cyber) - challenge writeups and lab progress notes for review, training, and interview discussion.
 - [Enset Challenge 2026](https://github.com/ALLAKORI/Enset_Challenge_2026) - Moroccan CTF writeups, including pwn and misc challenge notes.
 - [CiteFlag Qualifiers 2026](https://github.com/ALLAKORI/CITEFLAG_QUALS_2026) - Moroccan qualifier writeup notes, including web/parser logic analysis.
@@ -49,7 +49,7 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 ## Current Focus
 
 - PFE 2027 preparation: targeting cybersecurity consulting, SOC/DFIR, and AI Security roles
-- GRC fundamentals: ISO 27001, EBIOS RM, NIS2, conformity frameworks (learning via Google Cybersecurity Certificate)
+- (ISC)2 CC exam preparation and TryHackMe SOC Level 1 completion
 - SOC/DFIR investigation, log analysis (Splunk), timelines and reporting
 - Offensive Security labs with remediation and evidence collection
 - Secure RAG/backend engineering and privacy-aware AI workflows
@@ -59,14 +59,13 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 
 - **Cybersecurity:** SOC/DFIR investigation, log analysis, threat intelligence, Linux security, IAM, web security, Offensive Security labs, remediation
 - **Security tools:** Nmap, Wireshark, Burp Suite, Splunk, Kali Linux, auditd, UFW, Fail2ban
-- **GRC & Conformity:** ISO 27001 (foundations), EBIOS RM (learning), NIS2 awareness, risk assessment, security procedures documentation
 - **AI Security & AI engineering:** RAG, LLM application risks, prompt-injection awareness, semantic retrieval, Scikit-learn, model output explanation
 - **Development:** Python, FastAPI, SQL/PostgreSQL, Docker, Git/GitHub, testing, technical documentation
 - **Languages:** French (fluent), English (professional)
 
 ### Certifications
 
-- (ISC)2 Certified in Cybersecurity (CC)
+- (ISC)2 Certified in Cybersecurity (CC) (in progress)
 - Google Cybersecurity Professional Certificate
 - Google AI Security Foundations
 
