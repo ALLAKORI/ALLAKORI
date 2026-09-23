@@ -49,7 +49,7 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 ## Current Focus
 
 - PFE 2027 preparation: targeting cybersecurity consulting, SOC/DFIR, and AI Security roles
-- (ISC)2 CC exam preparation and TryHackMe SOC Level 1 completion
+- TryHackMe SOC Level 1 completion
 - SOC/DFIR investigation, log analysis (Splunk), timelines and reporting
 - Offensive Security labs with remediation and evidence collection
 - Secure RAG/backend engineering and privacy-aware AI workflows
@@ -65,7 +65,6 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 
 ### Certifications
 
-- (ISC)2 Certified in Cybersecurity (CC) (in progress)
 - Google Cybersecurity Professional Certificate
 - Google AI Security Foundations
 
