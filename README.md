@@ -25,15 +25,16 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 
 ### Cybersecurity Projects
 
-- [CyberVeille PME (CMRPI)](https://github.com/ALLAKORI) - PFA project completed with CMRPI at Espace Maroc Cyberconfiance: suspicious URL analysis, threat-intelligence lookup with ML-based phishing-risk scoring, automated alerting, and SME-oriented response sheets. Demonstrates AI applied to cybersecurity for small businesses.
+- [CyberVeille PME (CMRPI)](https://github.com/ALLAKORI/ALLAKORI.github.io/tree/main/case-studies/cyberveille-pme) - PFA project completed with CMRPI at Espace Maroc Cyberconfiance: suspicious URL analysis, threat-intelligence lookup with ML-based phishing-risk scoring, automated alerting, and SME-oriented response sheets. The public page is a sanitized overview; internal stage documents and datasets are not published.
 - [Linux Server Compromise & Forensic Investigation Lab](https://github.com/ALLAKORI/Linux-Server-Compromise-Forensic-Investigation-Lab) - controlled Linux compromise, evidence collection, timeline, IOCs and remediation.
 - [Cybersecurity and IAM Labs](https://github.com/ALLAKORI/cybersecurity-iam-labs) - web security, IAM, PKI, MFA and RBAC exercises.
 - [Linux Security Labs](https://github.com/ALLAKORI/linux-security-labs) - hardening, audit, DFIR and incident investigation labs.
 
 ### AI, RAG & Machine Learning
 
-- Chatbot USMS - multilingual RAG academic assistant using FastAPI, Next.js, PostgreSQL, Redis, Qdrant, Docker Compose, JWT/RBAC, audit logs and privacy workflows.
+- [Chatbot USMS case study](https://allakori.github.io/projects.html) - multilingual RAG academic assistant using FastAPI, Next.js, PostgreSQL, Redis, Qdrant, Docker Compose, JWT/RBAC, audit logs and privacy workflows.
 - [High-Pressure Pump Fault Prediction](https://github.com/ALLAKORI/Defaut-Pompe-Prediction) - predictive maintenance project using Python, Pandas, Scikit-learn, and a Tkinter desktop interface.
+- [AltoroJ Banking Risk Assessment](https://github.com/ALLAKORI/ALLAKORI.github.io/tree/main/case-studies/altoroj-banking-risk-assessment) - application security lab covering asset classification, risk prioritization, automated scanning, manual validation and remediation.
 
 ### Portfolio
 
@@ -41,7 +42,7 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 
 ### Writeups & CTF Evidence
 
-- [HTB Season 11 Writeups](https://github.com/ALLAKORI/htb-season-11-writeups) - Hack The Box Season 11 machine writeups with detailed exploitation steps, methodology, and remediation notes.
+- [Public writeup blog](https://allakori.github.io/writeups/) - selected retired CTF, DFIR, web and Active Directory writeups. Active Hack The Box notes remain private until publication is allowed.
 - [Academia Cyber](https://github.com/ALLAKORI/Academia_Cyber) - challenge writeups and lab progress notes for review, training, and interview discussion.
 - [Enset Challenge 2026](https://github.com/ALLAKORI/Enset_Challenge_2026) - Moroccan CTF writeups, including pwn and misc challenge notes.
 - [CiteFlag Qualifiers 2026](https://github.com/ALLAKORI/CITEFLAG_QUALS_2026) - Moroccan qualifier writeup notes, including web/parser logic analysis.
@@ -54,6 +55,12 @@ I am looking for a **PFE internship (4-6 months) starting February 2027** in cyb
 - Offensive Security labs with remediation and evidence collection
 - Secure RAG/backend engineering and privacy-aware AI workflows
 - Technical documentation for recruiters and technical reviewers (LaTeX/Markdown)
+
+## Publication Boundaries
+
+- Public repositories contain sanitized project summaries, reproducible academic work and retired or authorized writeups.
+- Internal internship documents, supplied datasets, supervisor information and confidential reports are kept private.
+- Active Hack The Box solutions remain private until the relevant machines are retired and publication is permitted.
 
 ## Technical Stack
 
