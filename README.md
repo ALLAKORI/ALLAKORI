@@ -23,4 +23,4 @@ SOC/DFIR, threat intelligence, Linux security, IAM, web security, AI Security an
 
 ## Links
 
-[Portfolio](https://allakori.github.io/) · [LinkedIn](https://www.linkedin.com/in/kossi-richard-allado-50177b2a5) · [TryHackMe](https://tryhackme.com/p/allakori) · [Email](mailto:alladokossirichard2025@gmail.com)
+[Portfolio](https://allakori.github.io/) · [LinkedIn](https://www.linkedin.com/in/kossi-richard-allado-50177b2a5) · [TryHackMe](https://tryhackme.com/p/allakori) · [Hack The Box](https://profile.hackthebox.com/profile/019d03a0-4529-7233-b8f5-6fe1e7a7e02b) · [Email](mailto:alladokossirichard2025@gmail.com)
