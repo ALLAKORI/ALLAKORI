@@ -11,7 +11,7 @@ I build and document security work across **offensive security**, **SOC / incide
 | Track | What I work on | Evidence |
 |---|---|---|
 | **Offensive Security / AppSec** | Web and API testing, broken access control, attack paths and reporting | [AltoroJ assessment](https://github.com/ALLAKORI/ALLAKORI.github.io/blob/main/case-studies/altoroj-banking-risk-assessment/README.md) · [TryHackMe Reset (Hard)](https://allakori.github.io/writeups/posts/tryhackme-reset-hard-active-directory-case-study/) |
-| **SOC / Blue Team / DFIR** | Splunk investigations, Linux logs, timelines, IOCs and threat intelligence | [Volt Typhoon investigation](https://allakori.github.io/writeups/tryhackme/volt-typhoon/index.html) · [Linux compromise & forensics lab](https://github.com/ALLAKORI/Linux-Server-Compromise-Forensic-Investigation-Lab) |
+| **SOC / Blue Team / DFIR** | Splunk investigations, Linux logs, timelines, IOCs and threat intelligence | [Volt Typhoon investigation](https://allakori.github.io/writeups/posts/volt-typhoon-intrusion/) · [Linux compromise & forensics lab](https://github.com/ALLAKORI/Linux-Server-Compromise-Forensic-Investigation-Lab) |
 | **AI Security / Secure Systems** | LLM application evaluation, synthetic test targets and secure RAG design | [LLM Red Team case study](https://allakori.github.io/case-studies/llm-red-team-agent/) · [Chatbot USMS architecture](https://allakori.github.io/projects.html#chatbot-usms) |
 
 ## Selected engineering evidence
